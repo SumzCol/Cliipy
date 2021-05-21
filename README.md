@@ -1,2 +1,2 @@
 # Cliipy
-Este Clii te hará fliipar!  
+La manera más simple de construir pipelines de datos
